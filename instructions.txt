@@ -1,0 +1,23 @@
+**Steps to setup Bridge Buddies.**
+Download the .msi for Nose.JS from: 
+  nodejs.org/en/download
+Clone / Download .zip for BridgeBuddies
+
+**Steps to run Bridge Buddies.**
+In command line, cd to BridgeBuddies
+  type npm install
+  type npm start
+Wait for localhost to run
+
+Note: all GUI fields in the web app have boxes around them for debugging. 
+**Steps to use Bridge Buddies.**
+Make an account and verify your email.
+Play a game.
+  Bid in the bottom right corner (when all 4 people pass, the bidding ends).
+  Click on a card to play when it is your turn. 
+Shop at the store.
+  As of right now, there is no feature employed to earn coins.
+    Click on Coins: 0 to artifically increase your coins
+  Click on characters to purchase and/or activate them.
+  Click on cardbacks to purchase and/or activate them. 
+    They can be seen while playing a game.
